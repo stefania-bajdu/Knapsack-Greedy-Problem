@@ -1,0 +1,8 @@
+object (41, 442) was added 1 times
+object (50, 525) was added 1 times
+object (49, 511) was added 1 times
+----------------------------------------------
+object (60, 617) needs to be cut by 0.50
+fractioned object was added with (30, 308.50)
+----------------------------------------------
+maximum profit is 1786.50
